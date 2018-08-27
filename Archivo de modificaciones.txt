@@ -1,2 +1,7 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 Esteban Ortiz Tirado
+María José Cantú Ruíz Escoto
+
+EL repositorio siguiente se puede encontrar en las url's
+http://github.com/cuenta_eortizt/tarea_colaborativo
+http://github.com/cuenta_mariajcantu/tarea_colaborativo
